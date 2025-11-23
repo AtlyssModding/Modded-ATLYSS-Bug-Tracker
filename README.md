@@ -1,4 +1,6 @@
 # ZeinaKC's ATLYSS Modded Bug Tracker (UNOFFICIAL)
-Personal modded bug tracker for ATLYSS, maintained by KittyCatto (ZeinaKC) with the goal of having easy access to modded troubleshooting information and keeping track of unresolved Bugs.
+Personal modded bug tracker for ATLYSS. Maintained by KittyCatto (ZeinaKC) with the goal of having easy access to modded troubleshooting information and keeping track of unresolved Bugs.
 
-This isn't related to any modders and shouldn't really be used to get troubleshooting help or reporting bugs (hence unofficial). Join the [Atlyss Modding Central Discord Server](https://discord.gg/hQceRJ7pEW) to get help with that instead. Though I will try to list sources on where to report bugs for specific mods or authors.
+This isn't directly related to the mod authors (hence unofficial) and isn't the place to report bugs to get them resolved. Join the [Atlyss Modding Central Discord Server](https://discord.gg/hQceRJ7pEW) to get help with troubleshooting instead.
+
+Use the issues page to help report things to the tracker with the usual troubleshooting standard. I don't know much about Pull Requests yet or have them configured, so don't use them.
