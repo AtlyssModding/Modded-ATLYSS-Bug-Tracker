@@ -1,5 +1,5 @@
 # EverythingBrewery Statistics
-Due to the rising concerns of performance for ATLYSS server modpacks, particularly from Shy RP which helped accelerate the movement from general modpacks to dedicated modpacks, this collection of statistics was gathered in aim of adding transparency to just the sheer size of what you're downloading.
+Due to the rising concerns of performance for ATLYSS server modpacks, particularly from Shy RP which helped accelerate the movement from general modpacks to dedicated modpacks, this collection of statistics was gathered in aim of adding transparency to just the sheer size of what you're downloading.\
 The information is gathered by checking "Properties" on the HomebreweryFiles folder of a pack after being unpackaged from the zip.
 
 
@@ -176,4 +176,5 @@ The information is gathered by checking "Properties" on the HomebreweryFiles fol
 | ZeinaKC              | Trans Outfit                             | 3.2.0    | 603KB    | 300   | 125     |
 | ZeinaKC              | Zeinas Misc Packs                        | 0.1.4    | 785KB    | 106   | 39      |
 | ZipperIndustries     | HalloweenSpringsMusic                    | 1.0.0    | 21.0MB   | 15    | 12      |
+
 | ZipperIndustries     | ZipperMusicMod                           | 1.0.5    | 50.8MB   | 60    | 42      |
