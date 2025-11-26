@@ -1,5 +1,5 @@
 # EverythingBrewery Statistics
-Due to the rising concerns of performance for ATLYSS server modpacks, particularly from Shy RPR which helped accelerate the movement from general modpacks to dedicated modpacks, this collection of statistics was gathered in aims of adding transparency to the sheer size of what you're including and downloading. Obviously at the end of the day it's just numbers and would require profiling to be objective, so just valuate them based on your views.
+Due to the rising concerns of performance for ATLYSS server modpacks, particularly from Shy RP which helped accelerate the movement from general modpacks to dedicated modpacks, this collection of statistics was gathered in aims of adding transparency to the sheer size of what you're including and downloading. Obviously at the end of the day it's just numbers and would require profiling to be objective, so just valuate them based on your views.
 
 The information is gathered by checking "Properties" on HomebreweryFiles folders and reading "Size" instead of "Size on disk".
 | Author               | Pack                                     | Version  | Size     | Files | Folders | Additional notes                                                                                 |
@@ -177,4 +177,5 @@ The information is gathered by checking "Properties" on HomebreweryFiles folders
 | ZipperIndustries     | HalloweenSpringsMusic                    | 1.0.0    | 21.0MB   | 15    | 12      |                                                                                                  |
 | ZipperIndustries     | ZipperMusicMod                           | 1.0.5    | 50.8MB   | 60    | 42      |                                                                                                  |
 | Author               | Pack                                     | Version  | Size     | Files | Folders | Additional notes                                                                                 |
+
 
