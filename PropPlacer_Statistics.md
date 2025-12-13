@@ -13,5 +13,4 @@ Author -> Prop alphabetical sorting.
 | Xesy          | Xesy Musicbox prop                | 1.1.0   | 22.3MB     | 23.2MB       | Music.                                                                                           |
 | Zenfishes     | Baggie Prop                       | 1.0.0   | 4.83MB     | 15MB         | Fully functioning shop.                                                                          |
 | Zenfishes     | Starlight Magistics Academy Props | 1.1.3   | 4.23MB     | 56.5MB       |                                                                                                  |
-| ------------- | --------------------------------- | ------- | ---------- | ------------ | ------------------------------------------------------------------------------------------------ |
 | Author        | Pack                              | Version | PropBundle | Uncompressed | Additional notes                                                                                 |
