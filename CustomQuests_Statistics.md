@@ -13,5 +13,6 @@ Author -> Pack alphabetical sorting.
 | Stoingularity        | Sybil Clothes            | 3.1.0   | 1.85KB | 1      | 1    | Zuula.                                                                                           |
 | The_Queue_Of_Em      | QM Customization Options | 2.6.3   | 21KB   | 14     | 3    | Sally, Enok, Vivian.                                                                             |
 | WilsonHough          | Minecraftpack            | 1.0.5   | 6.03KB | 8      | 1    | Sally.                                                                                           |
+| ZeinaKC              | Trans Outfit             | 3.2.0   | 9.31KB | 11     | 2    | Zuula, Nesh.
 | ZeinaKC              | Zeinas Quests Pack       | 2.1.2   | 68.4KB | 75     | 15   | All vanilla NPCs except Ammagon, Ruka, Spike, Mad Statue.                                        |
 | Author               | Pack                     | Version | Size   | Quests | NPCs | Additional notes                                                                                 |
