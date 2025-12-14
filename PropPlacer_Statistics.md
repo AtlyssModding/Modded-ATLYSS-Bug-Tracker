@@ -6,7 +6,7 @@ The information is gathered by checking "Properties" on PropBundles files & Asse
 Author -> Prop alphabetical sorting.
 | Author        | Pack                              | Version | PropBundle | Uncompressed | Additional notes                                                                                 |
 | ------------- | --------------------------------- | ------- | ---------- | ------------ | ------------------------------------------------------------------------------------------------ |
-| BoldsBordello | BoldsBordelloChristmasProps       | 1.0.1   | 295KB      | 1.61MB       |                                                                                                  |
+| BoldsBordello | BoldsBordelloChristmasProps       | 1.0.2   | 312KB      | 1.65MB       |                                                                                                  |
 | BoldsBordello | BoldsBordelloMusicNSFW            | 1.1.1   | 171MB      | 171MB        | Music.                                                                                           |
 | BoldsBordello | BoldsBordelloPropsNSFW            | 1.0.1   | 83KB       | 529KB        |                                                                                                  |
 | FireNoobsta   | Prop_Placer                       | 1.0.2   | 200KB      | 1.65MB       | 95.7KB/1.03MB for MyProps & 104KB/892KB for TestProps.                                           |
